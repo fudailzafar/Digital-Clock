@@ -22,9 +22,3 @@ A simple, web-based digital clock that displays the current hours, minutes, and 
 1. Download or clone the repository to your local machine.
 2. Open the **index.html** file in your browser.
 3. The digital clock will display the current time and update automatically.
-
-## Technologies Used
-
-- **HTML5** for structuring the clock layout.
-- **CSS3** for styling and creating the modern clock design.
-- **JavaScript** for the dynamic, real-time update of the clock.
